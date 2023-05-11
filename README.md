@@ -61,6 +61,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
+![1](https://github.com/HellenLer/Buildings/assets/133263014/3506a712-508e-48f0-aa23-99146551b1e3)
+
+![2](https://github.com/HellenLer/Buildings/assets/133263014/411e866e-2a01-419e-adfb-0d73f10a0fae)
+
+![3](https://github.com/HellenLer/Buildings/assets/133263014/2d86ce83-5e5d-423f-81ff-3257eda06d21)
+
+![4](https://github.com/HellenLer/Buildings/assets/133263014/fbd626b1-cec4-43dc-b17f-8a266baadb3e)
+
+![5](https://github.com/HellenLer/Buildings/assets/133263014/e42e24cc-6067-44eb-be48-a16ba9ada305)
+
+![6](https://github.com/HellenLer/Buildings/assets/133263014/061b4a08-85ea-4e39-9f3f-36b48b1108dd)
+
+![7](https://github.com/HellenLer/Buildings/assets/133263014/7465665d-59bb-47ea-89f8-56ba04697939)
+
+
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
